@@ -1,0 +1,4 @@
+# 2026Q1 Activity Log - xhs-cover-studio
+
+This log materializes planned 2026Q1 commit cadence into concrete commits.
+
