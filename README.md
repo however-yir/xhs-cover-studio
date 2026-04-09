@@ -1,4 +1,4 @@
-# xhs-cover-studio
+# 小红书封面生成工作室 / XHS Cover Studio
 
 一个面向 Codex 的小红书封面生成 Skill：基于 58 套 DESIGN.md 风格模板，快速产出小红书封面 HTML/PNG，并支持长文案一次生成多版本（单次最多 3 张）。
 
